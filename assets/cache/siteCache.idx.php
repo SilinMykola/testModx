@@ -1,5 +1,5 @@
 <?php
-$c=&$this->config;$c['settings_version']="1.2.1";$c['manager_theme']="MODxRE2";$c['server_offset_time']="0";$c['manager_language']="russian-UTF8";$c['modx_charset']="UTF-8";$c['site_name']="Vasko Personal";$c['site_start']="1";$c['error_page']="1";$c['unauthorized_page']="1";$c['site_status']="1";$c['auto_template_logic']="parent";$c['default_template']="3";$c['old_template']="3";$c['cache_type']="1";$c['use_udperms']="1";$c['udperms_allowroot']="0";$c['failed_login_attempts']="3";$c['blocked_minutes']="60";$c['use_captcha']="0";$c['emailsender']="";$c['use_editor']="1";$c['use_browser']="1";$c['fe_editor_lang']="russian-UTF8";$c['session.cookie.lifetime']="604800";$c['theme_refresher']="";$c['site_id']="58badb1e79d3f";$c['site_unavailable_page']="";$c['reload_site_unavailable']="";$c['site_unavailable_message']="В настоящее время сайт недоступен.";$c['siteunavailable_message_default']="В настоящее время сайт недоступен.";$c['enable_filter']="0";$c['publish_default']="0";$c['cache_default']="1";$c['search_default']="1";$c['auto_menuindex']="1";$c['custom_contenttype']="application/rss+xml,application/pdf,application/vnd.ms-word,application/vnd.ms-excel,text/html,text/css,text/xml,text/javascript,text/plain,application/json";$c['docid_incrmnt_method']="0";$c['minifyphp_incache']="0";$c['server_protocol']="http";$c['rss_url_news']="http://feeds.feedburner.com/modx-announce";$c['track_visitors']="0";$c['top_howmany']="10";$c['friendly_urls']="1";$c['xhtml_urls']="1";$c['friendly_url_prefix']="";$c['friendly_url_suffix']=".html";$c['make_folders']="0";$c['seostrict']="0";$c['aliaslistingfolder']="0";$c['friendly_alias_urls']="1";$c['use_alias_path']="1";$c['allow_duplicate_alias']="0";$c['automatic_alias']="1";$c['email_method']="mail";$c['smtp_auth']="0";$c['smtp_secure']="none";$c['smtp_host']="smtp.example.com";$c['smtp_port']="25";$c['smtp_username']="you@example.com";$c['reload_emailsubject']="";$c['emailsubject']="Данные для авторизации";$c['emailsubject_default']="Данные для авторизации";$c['reload_signupemail_message']="";$c['signupemail_message']="Здравствуйте, [+uid+]!\r\n\r\nВаши данные для авторизации в системе управления сайтом [+sname+]:\r\n\r\nИмя пользователя: [+uid+]\r\nПароль: [+pwd+]\r\n\r\nПосле успешной авторизации в системе управления сайтом ([+surl+]), вы сможете изменить свой пароль.\r\n\r\nС уважением, Администрация";$c['system_email_signup_default']="Здравствуйте, [+uid+]!\r\n\r\nВаши данные для авторизации в системе управления сайтом [+sname+]:\r\n\r\nИмя пользователя: [+uid+]\r\nПароль: [+pwd+]\r\n\r\nПосле успешной авторизации в системе управления сайтом ([+surl+]), вы сможете изменить свой пароль.\r\n\r\nС уважением, Администрация";$c['reload_websignupemail_message']="";$c['websignupemail_message']="Здравствуйте, [+uid+]!\r\n\r\nВаши данные для авторизации на [+sname+]:\r\n\r\nИмя пользователя: [+uid+]\r\nПароль: [+pwd+]\r\n\r\nПосле успешной авторизации на [+sname+] ([+surl+]), вы сможете изменить свой пароль.\r\n\r\nС уважением, Администрация";$c['system_email_websignup_default']="Здравствуйте, [+uid+]!\r\n\r\nВаши данные для авторизации на [+sname+]:\r\n\r\nИмя пользователя: [+uid+]\r\nПароль: [+pwd+]\r\n\r\nПосле успешной авторизации на [+sname+] ([+surl+]), вы сможете изменить свой пароль.\r\n\r\nС уважением, Администрация";$c['reload_system_email_webreminder_message']="";$c['webpwdreminder_message']="Здравствуйте, [+uid+]!\r\n\r\nЧтобы активировать ваш новый пароль, перейдите по следующей ссылке:\r\n\r\n[+surl+]\r\n\r\nПозже вы сможете использовать следующий пароль для авторизации: [+pwd+]\r\n\r\nЕсли это письмо пришло к вам по ошибке, пожалуйста, проигнорируйте его.\r\n\r\nС уважением, Администрация";$c['system_email_webreminder_default']="Здравствуйте, [+uid+]!\r\n\r\nЧтобы активировать ваш новый пароль, перейдите по следующей ссылке:\r\n\r\n[+surl+]\r\n\r\nПозже вы сможете использовать следующий пароль для авторизации: [+pwd+]\r\n\r\nЕсли это письмо пришло к вам по ошибке, пожалуйста, проигнорируйте его.\r\n\r\nС уважением, Администрация";$c['warning_visibility']="1";$c['tree_page_click']="27";$c['use_breadcrumbs']="0";$c['remember_last_tab']="0";$c['resource_tree_node_name']="pagetitle";$c['session_timeout']="15";$c['tree_show_protected']="0";$c['show_meta']="0";$c['datepicker_offset']="-10";$c['datetime_format']="dd-mm-YYYY";$c['number_of_logs']="100";$c['mail_check_timeperiod']="60";$c['number_of_messages']="40";$c['number_of_results']="30";$c['which_editor']="TinyMCE4";$c['editor_css_path']="";$c['tinymce4_theme']="custom";$c['tinymce4_skin']="lightgray";$c['tinymce4_template_docs']="";$c['tinymce4_template_chunks']="";$c['tinymce4_entermode']="p";$c['tinymce4_element_format']="xhtml";$c['tinymce4_schema']="html5";$c['tinymce4_custom_plugins']="advlist autolink lists link image charmap print preview hr anchor pagebreak searchreplace wordcount visualblocks visualchars code fullscreen spellchecker insertdatetime media nonbreaking save table contextmenu directionality emoticons template paste textcolor codesample colorpicker textpattern imagetools paste modxlink youtube";$c['tinymce4_custom_buttons1']="undo redo | cut copy paste | searchreplace | bold italic underline strikethrough | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent blockquote | styleselect";$c['tinymce4_custom_buttons2']="link unlink anchor image media codesample table | hr removeformat | subscript superscript charmap | nonbreaking | visualchars visualblocks print preview fullscreen code";$c['tinymce4_custom_buttons3']="";$c['tinymce4_custom_buttons4']="";$c['tinymce4_blockFormats']="Paragraph=p;Header 1=h1;Header 2=h2;Header 3=h3";$c['allow_eval']="with_scan";$c['safe_functions_at_eval']="time,date,strtotime,strftime";$c['check_files_onlogin']="index.php\r\n.htaccess\r\nmanager/index.php\r\nmanager/includes/config.inc.php";$c['validate_referer']="1";$c['rss_url_security']="http://feeds.feedburner.com/modxsecurity";$c['error_reporting']="1";$c['send_errormail']="0";$c['pwd_hash_algo']="UNCRYPT";$c['enable_bindings']="1";$c['reload_captcha_words']="";$c['captcha_words']="MODX,Access,Better,BitCode,Chunk,Cache,Desc,Design,Excell,Enjoy,URLs,TechView,Gerald,Griff,Humphrey,Holiday,Intel,Integration,Joystick,Join(),Oscope,Genetic,Light,Likeness,Marit,Maaike,Niche,Netherlands,Ordinance,Oscillo,Parser,Phusion,Query,Question,Regalia,Righteous,Snippet,Sentinel,Template,Thespian,Unity,Enterprise,Verily,Tattoo,Veri,Website,WideWeb,Yap,Yellow,Zebra,Zygote";$c['captcha_words_default']="MODX,Access,Better,BitCode,Chunk,Cache,Desc,Design,Excell,Enjoy,URLs,TechView,Gerald,Griff,Humphrey,Holiday,Intel,Integration,Joystick,Join(),Oscope,Genetic,Light,Likeness,Marit,Maaike,Niche,Netherlands,Ordinance,Oscillo,Parser,Phusion,Query,Question,Regalia,Righteous,Snippet,Sentinel,Template,Thespian,Unity,Enterprise,Verily,Tattoo,Veri,Website,WideWeb,Yap,Yellow,Zebra,Zygote";$c['filemanager_path']="/var/www/html/Modx/";$c['upload_files']="bmp,ico,gif,jpeg,jpg,png,psd,tif,tiff,fla,flv,swf,aac,au,avi,css,cache,doc,docx,gz,gzip,htaccess,htm,html,js,mp3,mp4,mpeg,mpg,ods,odp,odt,pdf,ppt,pptx,rar,tar,tgz,txt,wav,wmv,xls,xlsx,xml,z,zip,JPG,JPEG,PNG,GIF,svg";$c['upload_images']="bmp,ico,gif,jpeg,jpg,png,psd,tif,tiff,svg";$c['upload_media']="au,avi,mp3,mp4,mpeg,mpg,wav,wmv";$c['upload_flash']="fla,flv,swf";$c['upload_maxsize']="5000000";$c['new_file_permissions']="0644";$c['new_folder_permissions']="0755";$c['which_browser']="mcpuk";$c['rb_webuser']="0";$c['rb_base_dir']="/var/www/html/Modx/assets/";$c['rb_base_url']="assets/";$c['clean_uploaded_filename']="1";$c['strip_image_paths']="1";$c['maxImageWidth']="1600";$c['maxImageHeight']="1200";$c['thumbWidth']="150";$c['thumbHeight']="150";$c['thumbsDir']=".thumbs";$c['jpegQuality']="90";$c['denyZipDownload']="0";$c['denyExtensionRename']="0";$c['showHiddenFiles']="0";$c['lang_code']="ru";$c['sys_files_checksum']="a:4:{s:28:\"/var/www/html/Modx/index.php\";s:32:\"ed8dd02021b28b9227b44d5a76ef7440\";s:28:\"/var/www/html/Modx/.htaccess\";s:32:\"bdb6406c23ca2ca7c5735de90b5850af\";s:36:\"/var/www/html/Modx/manager/index.php\";s:32:\"afb412c538f339b214dfa2218d0e1349\";s:50:\"/var/www/html/Modx/manager/includes/config.inc.php\";s:32:\"1653ea00810578471109f8c95346efa2\";}";$this->aliasListing=array();$a=&$this->aliasListing;$d=&$this->documentListing;$m=&$this->documentMap;$d['main'] = 1;$a[1] = array('id' => 1, 'alias' => 'main', 'path' => '', 'parent' => 0, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('0' => '1');$d['about'] = 2;$a[2] = array('id' => 2, 'alias' => 'about', 'path' => '', 'parent' => 0, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('0' => '2');$d['contacts'] = 3;$a[3] = array('id' => 3, 'alias' => 'contacts', 'path' => '', 'parent' => 0, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('0' => '3');$d['news1'] = 4;$a[4] = array('id' => 4, 'alias' => 'news1', 'path' => '', 'parent' => 0, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('0' => '4');$c = &$this->contentTypes;$c = &$this->chunkCache;$c['AjaxSearch_tplInput'] = '[+as.showInputForm:is=`1`:then=`
+$c=&$this->config;$c['settings_version']="1.2.1";$c['manager_theme']="MODxRE2";$c['server_offset_time']="0";$c['manager_language']="russian-UTF8";$c['modx_charset']="UTF-8";$c['site_name']="Vasko Personal";$c['site_start']="1";$c['error_page']="1";$c['unauthorized_page']="1";$c['site_status']="1";$c['auto_template_logic']="parent";$c['default_template']="3";$c['old_template']="3";$c['cache_type']="1";$c['use_udperms']="1";$c['udperms_allowroot']="0";$c['failed_login_attempts']="3";$c['blocked_minutes']="60";$c['use_captcha']="0";$c['emailsender']="";$c['use_editor']="1";$c['use_browser']="1";$c['fe_editor_lang']="russian-UTF8";$c['session.cookie.lifetime']="604800";$c['theme_refresher']="";$c['site_id']="58badb1e79d3f";$c['site_unavailable_page']="";$c['reload_site_unavailable']="";$c['site_unavailable_message']="В настоящее время сайт недоступен.";$c['siteunavailable_message_default']="В настоящее время сайт недоступен.";$c['enable_filter']="0";$c['publish_default']="0";$c['cache_default']="1";$c['search_default']="1";$c['auto_menuindex']="1";$c['custom_contenttype']="application/rss+xml,application/pdf,application/vnd.ms-word,application/vnd.ms-excel,text/html,text/css,text/xml,text/javascript,text/plain,application/json";$c['docid_incrmnt_method']="0";$c['minifyphp_incache']="0";$c['server_protocol']="http";$c['rss_url_news']="http://feeds.feedburner.com/modx-announce";$c['track_visitors']="0";$c['top_howmany']="10";$c['friendly_urls']="1";$c['xhtml_urls']="1";$c['friendly_url_prefix']="";$c['friendly_url_suffix']=".html";$c['make_folders']="0";$c['seostrict']="0";$c['aliaslistingfolder']="0";$c['friendly_alias_urls']="1";$c['use_alias_path']="1";$c['allow_duplicate_alias']="0";$c['automatic_alias']="1";$c['email_method']="mail";$c['smtp_auth']="0";$c['smtp_secure']="none";$c['smtp_host']="smtp.example.com";$c['smtp_port']="25";$c['smtp_username']="you@example.com";$c['reload_emailsubject']="";$c['emailsubject']="Данные для авторизации";$c['emailsubject_default']="Данные для авторизации";$c['reload_signupemail_message']="";$c['signupemail_message']="Здравствуйте, [+uid+]!\r\n\r\nВаши данные для авторизации в системе управления сайтом [+sname+]:\r\n\r\nИмя пользователя: [+uid+]\r\nПароль: [+pwd+]\r\n\r\nПосле успешной авторизации в системе управления сайтом ([+surl+]), вы сможете изменить свой пароль.\r\n\r\nС уважением, Администрация";$c['system_email_signup_default']="Здравствуйте, [+uid+]!\r\n\r\nВаши данные для авторизации в системе управления сайтом [+sname+]:\r\n\r\nИмя пользователя: [+uid+]\r\nПароль: [+pwd+]\r\n\r\nПосле успешной авторизации в системе управления сайтом ([+surl+]), вы сможете изменить свой пароль.\r\n\r\nС уважением, Администрация";$c['reload_websignupemail_message']="";$c['websignupemail_message']="Здравствуйте, [+uid+]!\r\n\r\nВаши данные для авторизации на [+sname+]:\r\n\r\nИмя пользователя: [+uid+]\r\nПароль: [+pwd+]\r\n\r\nПосле успешной авторизации на [+sname+] ([+surl+]), вы сможете изменить свой пароль.\r\n\r\nС уважением, Администрация";$c['system_email_websignup_default']="Здравствуйте, [+uid+]!\r\n\r\nВаши данные для авторизации на [+sname+]:\r\n\r\nИмя пользователя: [+uid+]\r\nПароль: [+pwd+]\r\n\r\nПосле успешной авторизации на [+sname+] ([+surl+]), вы сможете изменить свой пароль.\r\n\r\nС уважением, Администрация";$c['reload_system_email_webreminder_message']="";$c['webpwdreminder_message']="Здравствуйте, [+uid+]!\r\n\r\nЧтобы активировать ваш новый пароль, перейдите по следующей ссылке:\r\n\r\n[+surl+]\r\n\r\nПозже вы сможете использовать следующий пароль для авторизации: [+pwd+]\r\n\r\nЕсли это письмо пришло к вам по ошибке, пожалуйста, проигнорируйте его.\r\n\r\nС уважением, Администрация";$c['system_email_webreminder_default']="Здравствуйте, [+uid+]!\r\n\r\nЧтобы активировать ваш новый пароль, перейдите по следующей ссылке:\r\n\r\n[+surl+]\r\n\r\nПозже вы сможете использовать следующий пароль для авторизации: [+pwd+]\r\n\r\nЕсли это письмо пришло к вам по ошибке, пожалуйста, проигнорируйте его.\r\n\r\nС уважением, Администрация";$c['warning_visibility']="1";$c['tree_page_click']="27";$c['use_breadcrumbs']="0";$c['remember_last_tab']="0";$c['resource_tree_node_name']="pagetitle";$c['session_timeout']="15";$c['tree_show_protected']="0";$c['show_meta']="0";$c['datepicker_offset']="-10";$c['datetime_format']="dd-mm-YYYY";$c['number_of_logs']="100";$c['mail_check_timeperiod']="60";$c['number_of_messages']="40";$c['number_of_results']="30";$c['which_editor']="TinyMCE4";$c['editor_css_path']="";$c['tinymce4_theme']="custom";$c['tinymce4_skin']="lightgray";$c['tinymce4_template_docs']="";$c['tinymce4_template_chunks']="";$c['tinymce4_entermode']="p";$c['tinymce4_element_format']="xhtml";$c['tinymce4_schema']="html5";$c['tinymce4_custom_plugins']="advlist autolink lists link image charmap print preview hr anchor pagebreak searchreplace wordcount visualblocks visualchars code fullscreen spellchecker insertdatetime media nonbreaking save table contextmenu directionality emoticons template paste textcolor codesample colorpicker textpattern imagetools paste modxlink youtube";$c['tinymce4_custom_buttons1']="undo redo | cut copy paste | searchreplace | bold italic underline strikethrough | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent blockquote | styleselect";$c['tinymce4_custom_buttons2']="link unlink anchor image media codesample table | hr removeformat | subscript superscript charmap | nonbreaking | visualchars visualblocks print preview fullscreen code";$c['tinymce4_custom_buttons3']="";$c['tinymce4_custom_buttons4']="";$c['tinymce4_blockFormats']="Paragraph=p;Header 1=h1;Header 2=h2;Header 3=h3";$c['allow_eval']="with_scan";$c['safe_functions_at_eval']="time,date,strtotime,strftime";$c['check_files_onlogin']="index.php\r\n.htaccess\r\nmanager/index.php\r\nmanager/includes/config.inc.php";$c['validate_referer']="0";$c['rss_url_security']="http://feeds.feedburner.com/modxsecurity";$c['error_reporting']="1";$c['send_errormail']="0";$c['pwd_hash_algo']="UNCRYPT";$c['enable_bindings']="1";$c['reload_captcha_words']="";$c['captcha_words']="MODX,Access,Better,BitCode,Chunk,Cache,Desc,Design,Excell,Enjoy,URLs,TechView,Gerald,Griff,Humphrey,Holiday,Intel,Integration,Joystick,Join(),Oscope,Genetic,Light,Likeness,Marit,Maaike,Niche,Netherlands,Ordinance,Oscillo,Parser,Phusion,Query,Question,Regalia,Righteous,Snippet,Sentinel,Template,Thespian,Unity,Enterprise,Verily,Tattoo,Veri,Website,WideWeb,Yap,Yellow,Zebra,Zygote";$c['captcha_words_default']="MODX,Access,Better,BitCode,Chunk,Cache,Desc,Design,Excell,Enjoy,URLs,TechView,Gerald,Griff,Humphrey,Holiday,Intel,Integration,Joystick,Join(),Oscope,Genetic,Light,Likeness,Marit,Maaike,Niche,Netherlands,Ordinance,Oscillo,Parser,Phusion,Query,Question,Regalia,Righteous,Snippet,Sentinel,Template,Thespian,Unity,Enterprise,Verily,Tattoo,Veri,Website,WideWeb,Yap,Yellow,Zebra,Zygote";$c['filemanager_path']="/var/www/html/Modx/";$c['upload_files']="bmp,ico,gif,jpeg,jpg,png,psd,tif,tiff,fla,flv,swf,aac,au,avi,css,cache,doc,docx,gz,gzip,htaccess,htm,html,js,mp3,mp4,mpeg,mpg,ods,odp,odt,pdf,ppt,pptx,rar,tar,tgz,txt,wav,wmv,xls,xlsx,xml,z,zip,JPG,JPEG,PNG,GIF,svg";$c['upload_images']="bmp,ico,gif,jpeg,jpg,png,psd,tif,tiff,svg";$c['upload_media']="au,avi,mp3,mp4,mpeg,mpg,wav,wmv";$c['upload_flash']="fla,flv,swf";$c['upload_maxsize']="5000000";$c['new_file_permissions']="0644";$c['new_folder_permissions']="0755";$c['which_browser']="mcpuk";$c['rb_webuser']="0";$c['rb_base_dir']="/var/www/html/Modx/assets/";$c['rb_base_url']="assets/";$c['clean_uploaded_filename']="1";$c['strip_image_paths']="1";$c['maxImageWidth']="1600";$c['maxImageHeight']="1200";$c['thumbWidth']="150";$c['thumbHeight']="150";$c['thumbsDir']=".thumbs";$c['jpegQuality']="90";$c['denyZipDownload']="0";$c['denyExtensionRename']="0";$c['showHiddenFiles']="0";$c['lang_code']="ru";$c['sys_files_checksum']="a:4:{s:40:\"E:/OpenServer/domains/testModX/index.php\";s:32:\"c16a5692a22a2b08c6def0c52c9f5616\";s:40:\"E:/OpenServer/domains/testModX/.htaccess\";s:32:\"c2c25b46f9f84962e1734ea69b53137b\";s:48:\"E:/OpenServer/domains/testModX/manager/index.php\";s:32:\"afb29c70511eee294e00491ad6883457\";s:62:\"E:/OpenServer/domains/testModX/manager/includes/config.inc.php\";s:32:\"1653ea00810578471109f8c95346efa2\";}";$this->aliasListing=array();$a=&$this->aliasListing;$d=&$this->documentListing;$m=&$this->documentMap;$d['main'] = 1;$a[1] = array('id' => 1, 'alias' => 'main', 'path' => '', 'parent' => 0, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('0' => '1');$d['news_page'] = 5;$a[5] = array('id' => 5, 'alias' => 'news_page', 'path' => '', 'parent' => 0, 'alias_visible' => 1, 'isfolder' => 1);$m[] = array('0' => '5');$d['about'] = 2;$a[2] = array('id' => 2, 'alias' => 'about', 'path' => '', 'parent' => 0, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('0' => '2');$d['contacts'] = 3;$a[3] = array('id' => 3, 'alias' => 'contacts', 'path' => '', 'parent' => 0, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('0' => '3');$d['news_page/news2'] = 6;$a[6] = array('id' => 6, 'alias' => 'news2', 'path' => 'news_page', 'parent' => 5, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('5' => '6');$d['news_page/news3'] = 7;$a[7] = array('id' => 7, 'alias' => 'news3', 'path' => 'news_page', 'parent' => 5, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('5' => '7');$d['news_page/news1'] = 4;$a[4] = array('id' => 4, 'alias' => 'news1', 'path' => 'news_page', 'parent' => 5, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('5' => '4');$d['news_page/news4'] = 8;$a[8] = array('id' => 8, 'alias' => 'news4', 'path' => 'news_page', 'parent' => 5, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('5' => '8');$d['news_page/news5'] = 9;$a[9] = array('id' => 9, 'alias' => 'news5', 'path' => 'news_page', 'parent' => 5, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('5' => '9');$d['news_page/news6'] = 10;$a[10] = array('id' => 10, 'alias' => 'news6', 'path' => 'news_page', 'parent' => 5, 'alias_visible' => 1, 'isfolder' => 0);$m[] = array('5' => '10');$c = &$this->contentTypes;$c = &$this->chunkCache;$c['AjaxSearch_tplInput'] = '[+as.showInputForm:is=`1`:then=`
 <form id="[+as.formId+]" action="[+as.formAction+]" method="post">
     [+as.showAsId:is=`1`:then=`<input type="hidden" name="[+as.asName+]" value="[+as.asId+]" />`+]
     <input type="hidden" name="advsearch" value="[+as.advSearch+]" />
@@ -281,7 +281,7 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
     <![endif]-->';$c['HEADER'] = '<header id="header">
   <div class="container">
     <div class="col-md-3 col-sm-4 col-xs-12 animated" data-animation="fadeInRight" data-animation-delay="600">
-      <a href="#" class="logo"><img src="assets/templates/vasko/images/logo.png" alt="" /></a>
+      <a href="[~1~]" class="logo"><img src="assets/templates/vasko/images/logo.png" alt="" /></a>
     </div>
     <div class="col-md-9 col-sm-8 col-xs-12">
       <div class="right_head animated" data-animation="fadeInLeft" data-animation-delay="600">
@@ -309,23 +309,9 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
           </button>
           <span class="navbar-brand" href="#">Меню</span>
         </div>
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">Рекрутинговое агентство</a></li>
-            <li><a href="#" data-toggle="dropdown">Наш подход</a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Для клиентов</a></li>
-                <li><a href="#">Для соискателей</a></li>
-                <li><a href="#">Заполнить техническое задание</a></li>
-              </ul>
-            </li>
-            <li><a href="#">Отзывы</a></li>
-            <li><a href="#">Для клиентов</a></li>
-            <li><a href="#">Соискатели</a></li>
-            <li class="last"><a href="#">Контакты</a></li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        	{{MAIN_MENU}}
+		</div>
       </nav>
     </div>
   </div>
@@ -424,7 +410,7 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
               <div class="quote">Поскольку основной целью агентства является долгосрочное сотрудничество с клиентами, мы допускаем применение различных видов оплат: с авансовыми платежами и без них, с применением гибких систем ценообразования. 
               </div>
             </div>
-            <a href="#" class="btn btn_transp">подробнее</a>
+            <a href="[~2~]" class="btn btn_transp">подробнее</a>
           </div>
         </div>
       </div>
@@ -458,7 +444,7 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
             </a>
           </div>
           <!-- /.carousel -->
-        <a href="#" class="btn btn_transp">Все новости</a>
+        <a href="[~5~]" class="btn btn_transp">Все новости</a>
       </div>
   </div>
 </section>';$c['BENEFITS'] = '<section class="benefits animated" data-animation="fadeInUp" data-animation-delay="600">
@@ -621,7 +607,7 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
   <ul class="news_list">
     <li class="item col-md-4 col-sm-4 col-xs-12">
       <a href="#">
-        <img src="assets/templates/vasko/assets/images/new2.jpg" alt="First slide">
+        <img src="assets/templates/vasko/assets/templates/vasko/assets/images/new2.jpg" alt="First slide">
         <div class="info_news">
           <span class="date">21/05/2014</span>
           <span class="title_new">С чего начать поиск работы</span>
@@ -631,7 +617,7 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
     </li>
     <li class="item col-md-4 col-sm-4 col-xs-12">
       <a href="#">
-        <img src="assets/templates/vasko/assets/images/new3.jpg" alt="First slide">
+        <img src="assets/templates/vasko/assets/templates/vasko/assets/images/new3.jpg" alt="First slide">
         <div class="info_news">
           <span class="date">21/05/2014</span>
           <span class="title_new">С чего начать поиск работы</span>
@@ -641,7 +627,7 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
     </li>
     <li class="item col-md-4 col-sm-4 col-xs-12">
       <a href="#">
-        <img src="assets/templates/vasko/assets/images/new4.jpg" alt="First slide">
+        <img src="assets/templates/vasko/assets/templates/vasko/assets/images/new4.jpg" alt="First slide">
         <div class="info_news">
           <span class="date">21/05/2014</span>
           <span class="title_new">С чего начать поиск работы</span>
@@ -650,26 +636,26 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
       </a>
     </li>
   </ul>
-  <a href="#" class="btn btn_transp details">Все новости</a>
+  <a href="[~5~]" class="btn btn_transp details">Все новости</a>
 </div>';$c['benefits_about'] = '<div id="benefits" class="col-sm-12">
   <div class="col-sm-12">
     <strong class="heading">Преимущества</strong>
   </div>
   <div class="col-sm-12 benefits_block">
     <div class="col-md-3 col-sm-6 col-xs-6 benefit_item">
-      <span class="icon_item"><img src="assets/images/icon5.png" alt="" /></span>
+      <span class="icon_item"><img src="assets/templates/vasko/assets/images/icon5.png" alt="" /></span>
       <span class="title">Экономия времени</span>
     </div>
     <div class="col-md-3 col-sm-6 col-xs-6 benefit_item">
-      <span class="icon_item"><img src="assets/images/icon6.png" alt="" /></span>
+      <span class="icon_item"><img src="assets/templates/vasko/assets/images/icon6.png" alt="" /></span>
       <span class="title">гарантия</span>
     </div>
     <div class="col-md-3 col-sm-6 col-xs-6 benefit_item">
-      <span class="icon_item"><img src="assets/images/icon7.png" alt="" /></span>
+      <span class="icon_item"><img src="assets/templates/vasko/assets/images/icon7.png" alt="" /></span>
       <span class="title">Профессионализм</span>
     </div>
     <div class="col-md-3 col-sm-6 col-xs-6 benefit_item">
-      <span class="icon_item"><img src="assets/images/icon8.png" alt="" /></span>
+      <span class="icon_item"><img src="assets/templates/vasko/assets/images/icon8.png" alt="" /></span>
       <span class="title">экономия финансов</span>
     </div>
   </div>
@@ -729,20 +715,15 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
             <span class="date">22/01/2015</span>
           </div>
           <div class="content">
-            <p> Вообще, найти работу в столице любой европейской страны не так уж и сложно. Можно даже не заморачиваться регистрацией на различных сайтах по трудоустройству. На rabota.ua есть немало вакансий в разделе «другие страны». Плюс, LinkedIn заполнен вакансиями для англо- и русскоязычных людей, начиная с Праги, Кракова, Варшавы и заканчивая Амстердамом, Парижем и Лондоном. ...</p>
-            <p>Доверяя нам подбор сотрудников, вы будете избавлены от проведения тестирований и собеседований. Все соискатели проходят качественный отбор, в течение которого оценивается их степень соответствия требованиям вашей фирмы. И огромного количества претендентов отбираются наиболее подходящие кандидатуры, которые потенциально могли бы вам подойти. Такой подбор существенно экономит ваше время, поскольку вы встречаетесь только с проверенными и надежными специалистами.</p>
-            <div class="quote">Поскольку основной целью агентства является долгосрочное сотрудничество с клиентами, мы допускаем применение различных видов оплат: с авансовыми платежами и без них, с применением гибких систем ценообразования. 
-            </div>
-            <p> Вообще, найти работу в столице любой европейской страны не так уж и сложно. Можно даже не заморачиваться регистрацией на различных сайтах по трудоустройству. На rabota.ua есть немало вакансий в разделе «другие страны». Плюс, LinkedIn заполнен вакансиями для англо- и русскоязычных людей, начиная с Праги, Кракова, Варшавы и заканчивая Амстердамом, Парижем и Лондоном. ...</p>
-            <p>Доверяя нам подбор сотрудников, вы будете избавлены от проведения тестирований и собеседований. Все соискатели проходят качественный отбор, в течение которого оценивается их степень соответствия требованиям вашей фирмы. И огромного количества претендентов отбираются наиболее подходящие кандидатуры, которые потенциально могли бы вам подойти. Такой подбор существенно экономит ваше время, поскольку вы встречаетесь только с проверенными и надежными специалистами.</p>
-            <blockquote>
-              Поскольку основной целью агентства является долгосрочное сотрудничество с клиентами, мы допускаем применение различных видов оплат: с авансовыми платежами и без них, с применением гибких систем ценообразования. 
-            </blockquote>
-            <p>Вообще, найти работу в столице любой европейской страны не так уж и сложно. Можно даже не заморачиваться регистрацией на различных сайтах по трудоустройству. На rabota.ua есть немало вакансий в разделе «другие страны». Плюс, LinkedIn заполнен вакансиями для англо- и русскоязычных людей, начиная с Праги, Кракова, Варшавы и заканчивая Амстердамом, Парижем и Лондоном. ...</p>
+            [*content*]
           </div>
           {{pagination}}
         </div>
-        <div class="col-md-4 col-sm-4 col-xs-12">
+        {{LAST_NEWS}}
+      </div>
+    </div>
+  </div>
+</div>';$c['LAST_NEWS'] = '<div class="col-md-4 col-sm-4 col-xs-12">
           <strong class="heading">Последние новости</strong>
           <ul class="news_list_sidebar">
             <li class="item">
@@ -770,12 +751,14 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
               </div>
             </li>
           </ul>
-          <a href="#" class="btn btn_transp details">Все новости</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>';$c['about_company'] = '<div id="about" class="col-sm-12">
+          <a href="[~5~]" class="btn btn_transp details">Все новости</a>
+        </div>';$c['news_article'] = '<div class="one_news">	
+<a href="[~[+id+]~]" title=”[+pagetitle+]”><strong class="title_block">[+pagetitle+]</strong></a>
+	<div>[+img_newsline+]</div>
+<div class="date">[+date+]</div>	
+<div class="content">[+introtext+]</div>
+</div>';$c['news'] = '<div>[[Ditto? &id=`nav` &tpl=`news_article` &dateSource=`pub_date` &dateFormat=`%d.%m.%Y` &paginate=`1` &display=`3` &paginateAlwaysShowLinks=`1` &tplPaginatePage=`PAGINATION_PAGE` &tplPaginatePrevious=`PAGINATION_PREV`     &tplPaginateNext=`PAGINATION_NEXT` &tplPaginateCurrentPage=`PAGINATION_CURRENT` &tplPaginateNextOff=`PAGINATION_NEXT_OFF`     &tplPaginatePreviousOff=`PAGINATION_PREV_OFF`]]</div>
+<div><nav class="pages_block"><ul class="pagination">[+nav_previous+][+nav_pages+][+nav_next+]</ul></nav></div>';$c['PAGINATION_CURRENT'] = '<li><span class=\'\'>[+page+]</span></li>';$c['PAGINATION_NEXT'] = '<li><a href="[+url+]" class=\'next\'>[+lang:next+]</a></li>';$c['PAGINATION_NEXT_OFF'] = '<li><span class=\'\'>[+lang:next+]</span></li>';$c['PAGINATION_PAGE'] = '<li><a href=\'[+url+]\'>[+page+]</a></li>';$c['PAGINATION_PREV'] = '<li><a href="[+url+]" class=\'prev\'>[+lang:previous+]</a></li>';$c['PAGINATION_PREV_OFF'] = '<li><span class=\'\'>[+lang:previous+]</span></li>';$c['about_company'] = '<div id="about" class="col-sm-12">
   <div class="col-md-6 col-sm-6 col-xs-12 content">
     <strong class="heading">Кадровое агентство Vasko-personal</strong>
     <p>Доверяя нам подбор сотрудников, вы будете избавлены от проведения тестирований и собеседований. Все соискатели проходят качественный отбор, в течение которого оценивается их степень соответствия требованиям вашей фирмы. И огромного количества претендентов отбираются наиболее подходящие кандидатуры, которые потенциально могли бы вам подойти.</p>
@@ -860,7 +843,26 @@ mm_widget_showimagetvs(); // Always give a preview of Image TVs
       </a>
     </li>
   </ul>
-</nav>';$s=&$this->snippetCache;$s['UltimateParent']='return require MODX_BASE_PATH.\'assets/snippets/ultimateparent/snippet.ultimateparent.php\';';$s['Wayfinder']='return require MODX_BASE_PATH.\'assets/snippets/wayfinder/snippet.wayfinder.php\';';$s['WebLogin']='return require MODX_BASE_PATH.\'assets/snippets/weblogin/snippet.weblogin.php\';';$s['WebLoginProps']='{"loginhomeid":"","logouthomeid":"","logintext":"","logouttext":"","tpl":""}';$s['Personalize']='return require MODX_BASE_PATH.\'assets/snippets/personalize/snippet.personalize.php\';';$s['eForm']='return require MODX_BASE_PATH.\'assets/snippets/eform/snippet.eform.php\';';$s['AjaxSearch']='return require MODX_BASE_PATH.\'assets/snippets/ajaxSearch/snippet.ajaxSearch.php\';';$s['WebSignup']='/**
+</nav>';$c['news_page_title'] = '<section class="pagetitle">
+<div class="container">
+  <div class="col-sm-12">
+    <strong class="title animated" data-animation="fadeInRight" data-animation-delay="600">Новости</strong>
+  </div>
+</div>
+</section>';$c['main_news'] = '<div class="main news">
+  <div class="container animated" data-animation="fadeInUp" data-animation-delay="600">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="col-md-8 col-sm-8 col-xs-12">
+          <div class="content">
+			  {{news}}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>';$c['MAIN_MENU'] = '[!Wayfinder? &outerClass=`nav navbar-nav navbar-right` &innerClass=`dropdown-menu`&startId=`0` !]               ';$s=&$this->snippetCache;$s['UltimateParent']='return require MODX_BASE_PATH.\'assets/snippets/ultimateparent/snippet.ultimateparent.php\';';$s['Wayfinder']='return require MODX_BASE_PATH.\'assets/snippets/wayfinder/snippet.wayfinder.php\';';$s['WebLogin']='return require MODX_BASE_PATH.\'assets/snippets/weblogin/snippet.weblogin.php\';';$s['WebLoginProps']='{"loginhomeid":"","logouthomeid":"","logintext":"","logouttext":"","tpl":""}';$s['Personalize']='return require MODX_BASE_PATH.\'assets/snippets/personalize/snippet.personalize.php\';';$s['eForm']='return require MODX_BASE_PATH.\'assets/snippets/eform/snippet.eform.php\';';$s['AjaxSearch']='return require MODX_BASE_PATH.\'assets/snippets/ajaxSearch/snippet.ajaxSearch.php\';';$s['WebSignup']='/**
  * WebSignup
  * 
  * Basic Web User account creation/signup system
