@@ -938,6 +938,9 @@ input[type="checkbox"],input[type="radio"] {
 .pagination > .prev > a, .pagination > .next > a {border: none!important;background: #d9d9d9;}
 .pagination > .prev > a:hover, .pagination > .next > a:hover {background: #56bf98;}
 
+.news_block  li {
+  list-style-type: none;
+}
 /*vacancii*/
 .vacancii {margin-bottom: 50px;}
 .vacancii .info_company {
